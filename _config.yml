@@ -1,0 +1,9 @@
+title: byteverse
+description:  >-
+  Just a generic blog talking about whatever is on my mind :).
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://byte-verse.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
